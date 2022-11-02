@@ -1,23 +1,24 @@
 # How to Filter and Group the Blazor DropDown List Items
-A quick start Blazor project that shows how to group the Blazor Dropdown List items as well as how to filter them.
 
-Examples: 
+This sample explains about how to group the Blazor Dropdown List items as well as how to filter them.
 
-https://blazor.syncfusion.com/demos/dropdown-list/grouping-icon
+**Examples**:
 
-https://blazor.syncfusion.com/demos/dropdown-list/filtering 
+* https://blazor.syncfusion.com/demos/dropdown-list/grouping-icon
+* https://blazor.syncfusion.com/demos/dropdown-list/filtering 
 
-Documentation: 
+**Documentation**: 
 
-https://blazor.syncfusion.com/documentation/dropdown-list/grouping
+* https://blazor.syncfusion.com/documentation/dropdown-list/grouping
+* https://blazor.syncfusion.com/documentation/dropdown-list/filtering 
 
-https://blazor.syncfusion.com/documentation/dropdown-list/filtering 
+## Prerequisites
 
+* Visual Studio 2022
 
-## Project pre-requisites
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK latest version(3.1.2) in your machine before starting to work on this project.
+## How to run the project
 
-## How to run this application?
-To run this application, you need to first clone the group-and-filter-items-in-blazor-dropdownlist repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
-
-
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
