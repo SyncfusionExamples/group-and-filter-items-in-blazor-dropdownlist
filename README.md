@@ -14,7 +14,7 @@ This sample explains about how to group the Blazor Dropdown List items as well a
 
 ## Prerequisites
 
-* Visual Studio 2026 or Visual Studio 2022 (17.14+) with .NET 10 SDK
+* Visual Studio 2026 / .NET 10 SDK
 
 ## How to run the project
 
